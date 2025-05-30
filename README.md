@@ -1,4 +1,13 @@
 # Voices-Reimagined-AI-in-Action_Hire-A-Thon
+
+# This project was our submission for the **Hire-A-Thon** challenge, hosted by **InvoLead** and **Geek Room**. Our team, **DUCS**, focused on the following problem.
+**Team DUCS Members:**
+*   BELO ABHIGYAN ([@koachgg](https://github.com/koachgg))
+*   Abhishek Singh Yadav ([@Abhi-3022](https://github.com/Abhi-3022))
+*   Ambedkar .
+*   Pradeep .
+
+
 # Problem Statement - 
 REAL TIME SPEECH-TO-SPEECH SOLUTION WITH LLM SPEAKER DIARIZATION AND EMOTION DETECTION
 

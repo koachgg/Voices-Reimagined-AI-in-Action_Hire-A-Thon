@@ -8,6 +8,8 @@
 *   Pradeep .
 
 
+[Linkedin Post](https://www.linkedin.com/posts/belo-abhigyan_hireathon-speechrecognition-speakerdiarization-activity-7266855643905490945-pVEz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADSLFvwBCg1vYhvzEm540XM7JwfxORQ3LTk)
+
 # Problem Statement - 
 REAL TIME SPEECH-TO-SPEECH SOLUTION WITH LLM SPEAKER DIARIZATION AND EMOTION DETECTION
 
